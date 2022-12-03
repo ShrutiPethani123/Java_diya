@@ -1,0 +1,47 @@
+---> java - programming language 
+		- OOPS
+
+--> JDK - java Devlopment kit
+	
+	1. javac  - Java compiler
+	2. JRE - Java Runtime Environment
+	3. Zip file - built in classes
+
+-> java is a case sensitive language.
+
+-> In java always write class with first letter Capital.
+	ex:  String , System 
+
+-> compile java file
+	javac filename.java
+
+-> when we compile java file it make .class file
+
+-> run 	
+	java filename
+
+-> one java file you can write multiple class and Multipal main Method
+
+->If java file have multipal classes than when we compile multipal class file generated.
+
+-> we don't need of main method for compile java file but we can't run without main method.
+
+-> If java file does not have any public class than we can write any file name.
+
+-> If java file have public class than file name should be same as public class name.
+
+-> one java file have at most one public class(0,1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
