@@ -116,6 +116,12 @@ In all task input taken by user
 
 1. Make one array that intialize the vale and print it.
 2. Take one array from user and print the array.
+3. Take one array from user and print all neagtive number from array.
+4. Take one array from user and count odd and even number from array.
+5. print sum of all element in array.
+	1 5 8 9 1 2  -> sum= 26
+6. find maximum element from array.
+7. find minimum element from array.
 
 
 
