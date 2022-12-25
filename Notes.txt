@@ -178,6 +178,14 @@ In all task input taken by user
 
 14.  Left Rotate array.
 
+		a - 5 4 7 2 6
+		count=1
+		a - 4 7 2 6 5
+		
+		count=2
+		a-  4 7 2 6 5
+		a - 7 2 6 5 4
+
 15.  Right Rotate array.
 
 16.  Find Frequency of each elemnent in array.
