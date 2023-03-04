@@ -1,34 +1,29 @@
-class College{
+class College {
 
-    College()
-    {
+    College() {
         System.out.println("Parent class constructor");
     }
 
-    void data()
-    {
+    void data() {
         System.out.println("All details of college");
     }
 
-    void department()
-    {
+    void department() {
         System.out.println("Department");
     }
 }
-class Student extends College{
 
-    Student()
-    {
+class Student extends College {
+
+    Student() {
         System.out.println("Child class constructor");
     }
 
-    void data()
-    {
+    void data() {
         System.out.println("Student data");
     }
 
-    void study()
-    {
+    void study() {
         System.out.println("Study");
     }
 
