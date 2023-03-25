@@ -4,7 +4,7 @@ Polymorphism:- Many forms
 
 2 types:
 
-1. Compiletime Polymorphism (Early binding , static Polymorphism)
+1. Compile time Polymorphism (Early binding , static Polymorphism)
 
     -> Method Overloading
         - changing the number of argument

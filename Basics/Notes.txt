@@ -150,14 +150,14 @@ In all task input taken by user
 
 
 
-10. Take one array from user and delete one element from array.
+12. Take one array from user and delete one element from array.
 
 	4 5 8 9 6 3 1
 	index- 3
 
 	4 5 8 6 3 1
 
-11. Take one array from user and insert element in array.
+13. Take one array from user and insert element in array.
 
 	4 59 2 6 3 4
 
@@ -166,17 +166,17 @@ In all task input taken by user
 
 	4 59 100 2 6 3 4
 
-12. Take one array from user and print reverse number using another array.
+14. Take one array from user and print reverse number using another array.
 
 		a - 5 8 9 6 41 2
 		b - 2 41 6 9 8 5
 
-13.  Take one array from user and reverse array without any extra array.
+15.  Take one array from user and reverse array without any extra array.
 
 		a - 5 8 9 6 1
 		a - 1 6 9 8 5
 
-14.  Left Rotate array.
+16.  Left Rotate array.
 
 		a - 5 4 7 2 6
 		count=1
@@ -186,9 +186,9 @@ In all task input taken by user
 		a-  4 7 2 6 5
 		a - 7 2 6 5 4
 
-15.  Right Rotate array.
+17.  Right Rotate array.
 
-16.  Find Frequency of each elemnent in array.
+18.  Find Frequency of each elemnent in array.
 
 	a - 1 1 5 3 6 9 2 1 2
 
@@ -200,7 +200,28 @@ In all task input taken by user
 	2 - 2 times
 
 
+->
 
+    Create a class named 'Member' having the following members:
+    Data members
+    1 - Name
+    2 - Age
+    3 - Phone number
+    4 - Address
+    5 - Salary
+    It also has a method named 'printSalary' which prints the salary of the members.
+    Two classes 'Employee' and 'Manager' inherits the 'Member' class. The 'Employee' and 
+    'Manager' classes have data members 'specialization' and 'department' respectively. 
+    Now, assign name, age, phone number, address and salary to an employee and a manager by 
+    making an object of both of these classes and print the same.
+
+
+    ->
+    Create a class with a method that prints "This is parent class" and its subclass with another 
+    method that prints "This is child class". Now, create an object for each of the class and call
+    1 - method of parent class by object of parent class
+    2 - method of child class by object of child class
+    3 - method of parent class by object of child class
 
  
 
